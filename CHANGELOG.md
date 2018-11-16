@@ -1,5 +1,8 @@
 ## Release notes
 
+### 1.1.0
+- Added feature to fetch vl_type from `ip -d link show` detailed output
+
 ### 1.0.2
 
 - Added excluded file to `.gitignore`.
