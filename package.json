@@ -1,9 +1,9 @@
 {
-	"name"        : "iproute",
-	"version"     : "1.0.2",
-	"description" : "Show and manipulate network devices, addresses, routing, policy routing and tunnels.",
-	"main"        : "index.js",
-	"keywords"    : [
+	"name": "@eva-rosalene/iproute",
+	"version": "1.0.2",
+	"description": "Show and manipulate network devices, addresses, routing, policy routing and tunnels.",
+	"main": "index.js",
+	"keywords": [
 		"device",
 		"interface",
 		"address",
@@ -24,20 +24,26 @@
 	"dependencies": {
 		"async": "*"
 	},
-	"engines"     : {
+	"engines": {
 		"node": ">=0.8.0"
 	},
-	"homepage"    : "https://github.com/diosney/node-iproute",
-	"bugs"        : {
-		"url": "https://github.com/diosney/node-iproute/issues"
+	"homepage": "https://github.com/eva-rosalene/node-iproute",
+	"bugs": {
+		"url": "https://github.com/eva-rosalene/node-iproute/issues"
 	},
 	"author"      : {
 		"name" : "Diosney Sarmiento",
 		"email": "diosney.s@gmail.com"
 	},
-	"license"     : "MIT",
-	"repository"  : {
+	"contributors": [
+		{
+			"name": "Eva Rosalene",
+			"email": "evarosalene@yandex.ru"
+		}
+	],
+	"license": "MIT",
+	"repository": {
 		"type": "git",
-		"url" : "https://github.com/diosney/node-iproute.git"
+		"url": "https://github.com/eva-rosalene/node-iproute.git"
 	}
 }

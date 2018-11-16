@@ -599,6 +599,7 @@ The `data` object will hold the object type and the already parsed data, as it w
 
 The MIT License (MIT)
 
+Copyright (c) 2018 Eva Rosalene
 Copyright (c) Diosney Sarmiento
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
