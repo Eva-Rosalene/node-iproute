@@ -45,5 +45,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/eva-rosalene/node-iproute.git"
-	}
+	},
+	"files": [
+		"lib/"
+	]
 }
