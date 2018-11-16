@@ -1,6 +1,6 @@
 {
 	"name": "@eva-rosalene/iproute",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"description": "Show and manipulate network devices, addresses, routing, policy routing and tunnels.",
 	"main": "index.js",
 	"keywords": [
@@ -31,8 +31,8 @@
 	"bugs": {
 		"url": "https://github.com/eva-rosalene/node-iproute/issues"
 	},
-	"author"      : {
-		"name" : "Diosney Sarmiento",
+	"author": {
+		"name": "Diosney Sarmiento",
 		"email": "diosney.s@gmail.com"
 	},
 	"contributors": [
